@@ -1,0 +1,13 @@
+Manejo de Rutas y Endpoints Personalizados: Express permite definir rutas y endpoints personalizados para gestionar las solicitudes HTTP. Los usuarios pueden crear fácilmente rutas para diferentes URL y métodos HTTP (GET, POST, PUT, DELETE, etc.), lo que facilita la creación de APIs RESTful y la gestión de las rutas de una aplicación web.
+
+Middleware: Express ofrece un sistema de middleware que permite a los usuarios agregar funciones intermedias para procesar solicitudes antes de llegar a las rutas finales. Esto es útil para la autenticación, la validación de datos, el registro de solicitudes, la compresión de respuestas y muchas otras tareas. Los usuarios pueden personalizar el flujo de procesamiento de solicitudes según sus necesidades.
+
+Manejo de Solicitudes y Respuestas: Express simplifica el manejo de solicitudes y respuestas HTTP. Los usuarios pueden acceder fácilmente a los parámetros de la solicitud, los encabezados y enviar respuestas personalizadas. Esto facilita la creación de lógica de negocio basada en HTTP.
+
+Plantillas de Vista: Aunque Express en sí mismo no incluye un motor de plantillas, es comúnmente utilizado con motores de plantillas como EJS o Handlebars. Esto permite a los usuarios renderizar vistas HTML de manera dinámica y pasar datos a las plantillas para crear páginas web interactivas.
+
+Gestión de Sesiones y Autenticación: Express es compatible con la gestión de sesiones y la autenticación de usuarios. Los usuarios pueden implementar sistemas de autenticación personalizados o utilizar bibliotecas como Passport.js para agregar autenticación basada en tokens o sesiones a sus aplicaciones.
+
+Integración con Bases de Datos: Express puede integrarse fácilmente con diversas bases de datos, como MongoDB, MySQL, PostgreSQL, etc. Esto permite a los usuarios crear aplicaciones web que interactúen con bases de datos de manera eficiente.
+
+Extensible y Modular: Express es altamente modular y extensible. Los usuarios pueden agregar middleware personalizado, crear complementos y ampliar la funcionalidad de acuerdo con los requisitos de sus aplicaciones.
